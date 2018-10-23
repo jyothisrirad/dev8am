@@ -1,0 +1,7 @@
+Class Demo
+{
+ p.svoid main()
+ {
+ sfsfsfsfs
+ }
+}
